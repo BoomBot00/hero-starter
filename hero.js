@@ -180,7 +180,7 @@ var moves = {
 };
 
 // Set our hero's strategy
-var move =  moves.nortener ;
+var move =  moves.northener;
 
 // Export the move function here
 module.exports = move;
